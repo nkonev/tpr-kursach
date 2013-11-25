@@ -1,7 +1,7 @@
 <!-- Tufts VUE 3.2.2 concept-map (&#1056;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;-incremental.vue) 2013-11-26 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/E:/%d0%9c%d0%be%d0%b8%20%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/%d0%9c%d0%98%d0%a0%d0%ad%d0%90/%d0%a2%d0%9f%d0%a0/%d1%80%d0%b0%d1%81%d0%bf%d0%b0%d0%ba%d0%b8/%d0%9f%d0%a0%d0%9e%d0%93%d0%a0%d0%90%d0%9c%d0%9c%d0%90%20%d0%a2%d0%9f%d0%a0/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Tue Nov 26 00:29:58 GMT+03:00 2013 by Ник on platform Windows XP 5.1 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Nov 26 01:55:20 GMT+03:00 2013 by Ник on platform Windows XP 5.1 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -9,7 +9,7 @@
     label="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x438;&#x43a;-incremental.vue"
     created="1382006616772" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1385414998218" size="212115"
+    <resource referenceCreated="1385420120718" size="212115"
         spec="E:\&#x41c;&#x43e;&#x438; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x44b;\&#x41c;&#x418;&#x420;&#x42d;&#x410;\&#x422;&#x41f;&#x420;\tpr-kursach\&#x420;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x438;&#x43a;-incremental.vue"
         type="1" xsi:type="URLResource">
         <title>&#x420;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x438;&#x43a;-incremental.vue</title>
@@ -470,7 +470,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1382611060949" x="286.29425" y="883.8584"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -617,7 +617,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1382613189050" x="330.85626" y="1365.6682"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -881,7 +881,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1384008486929" x="718.6499" y="653.18567"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -936,7 +936,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#F2AE45</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/6c683128c0a8012101b4647511f934c1</URIString>
         <shape xsi:type="rectangle"/>
@@ -996,7 +996,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1384807119453" x="308.45624" y="1866.0602"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -1098,7 +1098,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#AF55F4</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/6cf3e561c0a8012101b46475ddf952ff</URIString>
         <shape xsi:type="rectangle"/>
@@ -1144,7 +1144,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1384807945640" x="210.52295" y="2337.3936"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -1436,7 +1436,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1384809070937" x="2838.2974" y="1969.3936"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -1502,7 +1502,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/6d183026c0a801210037bfd6e4f16c33</URIString>
         <shape xsi:type="rectangle"/>
@@ -1563,7 +1563,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1384809117546" x="3552.9639" y="1966.7267"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -1837,7 +1837,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385399898140" x="2922.226" y="1287.6681"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -1915,7 +1915,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90561e2ac0a801210048d43e6b86c58f</URIString>
         <shape xsi:type="rectangle"/>
@@ -1989,7 +1989,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385399903765" x="3703.5596" y="1318.3347"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -2065,7 +2065,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90561e2ac0a801210048d43e0dea896e</URIString>
         <shape xsi:type="rectangle"/>
@@ -2276,7 +2276,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385406508562" x="2164.4563" y="1342.3348"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -2338,7 +2338,7 @@
         width="182.90063" height="176.6792" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90dda56ac0a80121004f3d725aa1febe</URIString>
         <point1 x="2172.4402" y="1369.8875"/>
@@ -2379,7 +2379,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90dda56ac0a80121004f3d72cbd214d9</URIString>
         <shape xsi:type="rectangle"/>
@@ -2617,7 +2617,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385409635109" x="1971.123" y="1890.9977"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -2653,7 +2653,7 @@
         width="268.6504" height="169.30225" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90dda57ac0a80121004f3d72366299a6</URIString>
         <point1 x="1974.8029" y="1915.6797"/>
@@ -2719,7 +2719,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90dda57ac0a80121004f3d72afba3e5b</URIString>
         <shape xsi:type="rectangle"/>
@@ -2904,7 +2904,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385411295546" x="335.23532" y="2733.2273"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -3197,7 +3197,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385411768031" x="320.56863" y="3481.2273"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -3455,21 +3455,21 @@
         <shape xsi:type="rectangle"/>
     </child>
     <child ID="469" label="&#x421;&#x41e;" layerID="1"
-        created="1385412060500" x="370.30756" y="3720.7705" width="21.0"
-        height="36.851562" strokeWidth="1.0" autoSized="false"
-        controlCount="0" arrowState="0" xsi:type="link">
+        created="1385412060500" x="302.95502" y="3719.9695"
+        width="51.851044" height="34.98535" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/90ffab8fc0a801210169ee4841d660a4</URIString>
-        <point1 x="381.50455" y="3721.2705"/>
-        <point2 x="380.11057" y="3757.122"/>
+        <point1 x="354.30606" y="3720.4695"/>
+        <point2 x="303.45502" y="3754.4548"/>
         <ID1 xsi:type="node">454</ID1>
         <ID2 xsi:type="node">470</ID2>
     </child>
     <child ID="470"
         label="&#x421;&#x43e;&#x433;&#x43b;&#x430;&#x441;&#x43e;&#x432;&#x430;&#x43d;&#x43e; =1"
-        layerID="1" created="1385412060500" x="305.6721" y="3757.1216"
+        layerID="1" created="1385412060500" x="203.00546" y="3754.4548"
         width="147.48901" height="35.696045" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
@@ -3483,7 +3483,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385413789234" x="1251.4229" y="1399.9418"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -3545,7 +3545,7 @@
         width="182.90063" height="176.67908" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/911b016cc0a801210105425dacdc59f4</URIString>
         <point1 x="1259.4067" y="1427.4945"/>
@@ -3586,7 +3586,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#F2AE45</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/911b016cc0a801210105425db3226551</URIString>
         <shape xsi:type="rectangle"/>
@@ -3701,7 +3701,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#30D643</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/911b016cc0a801210105425d0b269133</URIString>
         <shape xsi:type="rectangle"/>
@@ -3726,7 +3726,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#30D643</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/911b016cc0a801210105425de8b29bad</URIString>
         <shape xsi:type="rectangle"/>
@@ -3761,7 +3761,7 @@
         width="102.50342" height="17.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/911b016cc0a801210105425d7f665543</URIString>
         <point1 x="1215.5636" y="1627.2188"/>
@@ -3811,7 +3811,7 @@
         label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
         layerID="1" created="1385414736734" x="1173.9752" y="1934.4022"
         width="124.2" height="37.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#FEFEC9</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-16</font>
@@ -3847,7 +3847,7 @@
         width="268.6505" height="169.302" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/912a5ec6c0a801210105425d99e32cf3</URIString>
         <point1 x="1177.6553" y="1959.0842"/>
@@ -3913,7 +3913,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#AF55F4</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/912a5ec6c0a801210105425d2eca0982</URIString>
         <shape xsi:type="rectangle"/>
@@ -4014,7 +4014,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#33A8F5</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/912a5ec6c0a801210105425dabdca5eb</URIString>
         <shape xsi:type="rectangle"/>
@@ -4039,7 +4039,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#33A8F5</textColor>
         <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/912a5ec6c0a801210105425d121b11d2</URIString>
         <shape xsi:type="rectangle"/>
@@ -4082,12 +4082,841 @@
         <URIString>http://vue.tufts.edu/rdf/resource/912a5ec6c0a801210105425d43c3c624</URIString>
         <shape xsi:type="rectangle"/>
     </child>
+    <child ID="538" label="&#x421;&#x41e;" layerID="1"
+        created="1385418984968" x="402.9215" y="3720.3682"
+        width="41.204346" height="37.2583" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d7afe207c</URIString>
+        <point1 x="403.4215" y="3720.8682"/>
+        <point2 x="443.62585" y="3757.1265"/>
+        <ID1 xsi:type="node">454</ID1>
+        <ID2 xsi:type="node">539</ID2>
+    </child>
+    <child ID="539"
+        label="&#x41f;&#x43e;&#x434;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x43e; =/1"
+        layerID="1" created="1385418984968" x="389.67206" y="3757.1265"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425db8de7329</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="542"
+        label="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x43e;&#x434;&#x430;&#x442;&#x435;&#x43b;&#x44c;"
+        layerID="1" created="1385419094953" x="288.70422" y="3987.71"
+        width="158.08536" height="51.27529" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#FFFFFF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d96ed7381</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="543"
+        label="&#x421;&#x43e;&#x43e;&#x431;&#x449;&#x430;&#x435;&#x442;"
+        layerID="1" created="1385419094953" x="270.3075" y="4091.56"
+        width="194.4" height="50.4" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d587dd0ad</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="544" label="&#x421;&#x414;" layerID="1"
+        created="1385419094953" x="358.12668" y="4038.4844" width="19.0"
+        height="53.578125" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425dab34b51f</URIString>
+        <point1 x="367.68753" y="4038.9844"/>
+        <point2 x="367.56583" y="4091.5625"/>
+        <ID1 xsi:type="node">542</ID1>
+        <ID2 xsi:type="node">543</ID2>
+    </child>
+    <child ID="545"
+        label="&#x421;&#x43e;&#x43e;&#x431;&#x449;&#x435;&#x43d;&#x43e;=0/1"
+        layerID="1" created="1385419094953" x="48.647804" y="4021.4204"
+        width="266.84055" height="177.79688" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#EA2218</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d618529db</URIString>
+        <point1 x="293.56985" y="4021.9204"/>
+        <point2 x="314.98834" y="4198.7173"/>
+        <ID1 xsi:type="node">542</ID1>
+        <ID2 xsi:type="node">547</ID2>
+        <ctrlPoint0 x="-108.98348" y="4068.4438" xsi:type="point"/>
+    </child>
+    <child ID="546" label="&#x41e;&#x414;" layerID="1"
+        created="1385419094953" x="358.23523" y="4141.461" width="20.0"
+        height="54.820312" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d7649d4cc</URIString>
+        <point1 x="367.85944" y="4141.961"/>
+        <point2 x="368.611" y="4195.7812"/>
+        <ID1 xsi:type="node">543</ID1>
+        <ID2 xsi:type="node">547</ID2>
+    </child>
+    <child ID="547"
+        label="&#x422;&#x438;&#x43c;&#x43b;&#x438;&#x434;&#x435;&#x440;"
+        layerID="1" created="1385419094953" x="265.68323" y="4195.7773"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d094d7490</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="548" label="18." layerID="1" created="1385419094953"
+        x="-51.91678" y="3967.7773" width="56.0" height="56.0"
+        strokeWidth="0.0" autoSized="false" xsi:type="text">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d782b86a7</URIString>
+        <richText>&lt;html&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
+    &lt;style type="text/css"&gt;
+      &lt;!--
+        body { font-family: Arial; margin-bottom: 0px; font-size: 16; margin-left: 0px; margin-top: 0px; color: #000000; margin-right: 0px }
+        ol { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; margin-left: 0; margin-top: 0; color: #000000; margin-right: 0 }
+        ul { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+      --&gt;
+    &lt;/style&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
+      &lt;font style="font-size:24;"&gt;18.&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richText>
+        <label>18.</label>
+    </child>
+    <child ID="549" label="&#x421;&#x41e;" layerID="1"
+        created="1385419094953" x="621.57385" y="4238.1836" width="21.0"
+        height="42.375" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425df5070cbe</URIString>
+        <point1 x="631.7354" y="4238.6836"/>
+        <point2 x="632.41223" y="4280.0586"/>
+        <ID1 xsi:type="node">551</ID1>
+        <ID2 xsi:type="node">550</ID2>
+    </child>
+    <child ID="550"
+        label="&#x41f;&#x43e;&#x434;&#x433;&#x43e;&#x442;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x43e; =1"
+        layerID="1" created="1385419094953" x="558.9597" y="4280.06"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d6f2d8877</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="551"
+        label="&#x421;&#x43e;&#x431;&#x435;&#x441;&#x435;&#x434;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;"
+        layerID="1" created="1385419131031" x="528.2165" y="4199.6904"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425dc6ee4fd4</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="552" label="&#x41a;&#x414;" layerID="1"
+        created="1385419291765" x="425.0094" y="4138.7725"
+        width="161.89313" height="63.446777" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d9be27ead</URIString>
+        <point1 x="425.5094" y="4139.2725"/>
+        <point2 x="586.4025" y="4201.719"/>
+        <ID1 xsi:type="node">543</ID1>
+        <ID2 xsi:type="node">551</ID2>
+    </child>
+    <child ID="553" label="&#x421;&#x41e;" layerID="1"
+        created="1385419370109" x="356.95233" y="4234.2637" width="21.0"
+        height="37.850586" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425dfb9d2fb8</URIString>
+        <point1 x="368.14777" y="4234.7637"/>
+        <point2 x="366.7569" y="4271.6143"/>
+        <ID1 xsi:type="node">547</ID1>
+        <ID2 xsi:type="node">554</ID2>
+    </child>
+    <child ID="554"
+        label="&#x41e;&#x442;&#x432;&#x43b;&#x451;&#x43a;&#x441;&#x44f; =/1"
+        layerID="1" created="1385419370109" x="292.3387" y="4271.6143"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d39386123</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="555"
+        label="&#x422;&#x438;&#x43c;&#x43b;&#x438;&#x434;&#x435;&#x440;"
+        layerID="1" created="1385419382843" x="244.21655" y="4425.0234"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d12687e87</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="556"
+        label="&#x413;&#x43e;&#x442;&#x43e;&#x432;&#x438;&#x442;&#x441;&#x44f;"
+        layerID="1" created="1385419386531" x="250.21658" y="4505.99"
+        width="194.4" height="50.4" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425da3ed10e0</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="557"
+        label="&#x421;&#x43e;&#x431;&#x435;&#x441;&#x435;&#x434;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x435;"
+        layerID="1" created="1385419399578" x="244.21655" y="4599.6904"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d8d16956b</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="558" label="&#x421;&#x414;" layerID="1"
+        created="1385419411125" x="337.41656" y="4463.5234" width="20.0"
+        height="42.966797" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d5a388e7e</URIString>
+        <point1 x="347.41656" y="4464.0234"/>
+        <point2 x="347.41656" y="4505.99"/>
+        <ID1 xsi:type="node">555</ID1>
+        <ID2 xsi:type="node">556</ID2>
+    </child>
+    <child ID="559" label="&#x41e;&#x414;" layerID="1"
+        created="1385419418546" x="336.91656" y="4555.8896" width="21.0"
+        height="44.300293" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d7cd3c211</URIString>
+        <point1 x="347.41656" y="4556.39"/>
+        <point2 x="347.41656" y="4599.6904"/>
+        <ID1 xsi:type="node">556</ID1>
+        <ID2 xsi:type="node">557</ID2>
+    </child>
+    <child ID="560" label="&#x421;&#x41e;" layerID="1"
+        created="1385419436250" x="450.11554" y="4436.0283"
+        width="57.389862" height="17.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425dcbb29880</URIString>
+        <point1 x="450.61554" y="4444.5273"/>
+        <point2 x="507.0054" y="4444.5293"/>
+        <ID1 xsi:type="node">555</ID1>
+        <ID2 xsi:type="node">561</ID2>
+    </child>
+    <child ID="561"
+        label="&#x41e;&#x442;&#x432;&#x43b;&#x451;&#x43a;&#x441;&#x44f; =1"
+        layerID="1" created="1385419436250" x="507.0054" y="4426.684"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962aec0a801210105425d3924ed3d</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="563"
+        label="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441;&#x44b;"
+        layerID="1" created="1385419467687" x="7.416584" y="4579.191"
+        width="130.40002" height="52.0" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d8c6bf450</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="565" label="&#x41a;&#x414;" layerID="1"
+        created="1385419487500" x="126.15161" y="4548.51"
+        width="155.59222" height="42.629883" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d7a445359</URIString>
+        <point1 x="281.24384" y="4549.01"/>
+        <point2 x="126.6516" y="4590.6396"/>
+        <ID1 xsi:type="node">556</ID1>
+        <ID2 xsi:type="node">563</ID2>
+    </child>
+    <child ID="566"
+        label="&#x41f;&#x440;&#x438;&#x434;&#x443;&#x43c;&#x430;&#x43d;&#x44b;=/1"
+        layerID="1" created="1385419530218" x="6.0832443" y="4667.19"
+        width="132.8" height="52.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d3260dd41</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="567" label="&#x421;&#x41e;" layerID="1"
+        created="1385419555484" x="61.549927" y="4630.6875" width="22.0"
+        height="37.003906" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d504a3a52</URIString>
+        <point1 x="72.5772" y="4631.1875"/>
+        <point2 x="72.522644" y="4667.1914"/>
+        <ID1 xsi:type="node">563</ID1>
+        <ID2 xsi:type="node">566</ID2>
+    </child>
+    <child ID="568"
+        label="&#x422;&#x438;&#x43c;&#x43b;&#x438;&#x434;&#x435;&#x440;"
+        layerID="1" created="1385419620453" x="236.01099" y="4848.1074"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dfd8f4c97</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="569"
+        label="&#x41f;&#x440;&#x438;&#x434;&#x443;&#x43c;&#x44b;&#x432;&#x430;&#x435;&#x442;"
+        layerID="1" created="1385419620453" x="244.6777" y="4933.074"
+        width="194.4" height="50.4" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425da2404083</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="570"
+        label="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441;&#x44b;"
+        layerID="1" created="1385419620453" x="247.41658" y="5026.774"
+        width="192.32777" height="52.416016" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dcbe5f8fb</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="571" label="&#x421;&#x414;" layerID="1"
+        created="1385419620453" x="330.46036" y="4886.5967" width="20.0"
+        height="46.97754" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425df916bc21</URIString>
+        <point1 x="339.7842" y="4887.0967"/>
+        <point2 x="341.1365" y="4933.074"/>
+        <ID1 xsi:type="node">568</ID1>
+        <ID2 xsi:type="node">569</ID2>
+    </child>
+    <child ID="572" label="&#x41e;&#x414;" layerID="1"
+        created="1385419620453" x="332.22015" y="4982.9736" width="21.0"
+        height="44.314453" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d9c6a1ad2</URIString>
+        <point1 x="342.33075" y="4983.4736"/>
+        <point2 x="343.10953" y="5026.788"/>
+        <ID1 xsi:type="node">569</ID1>
+        <ID2 xsi:type="node">570</ID2>
+    </child>
+    <child ID="575" label="&#x417;&#x430;&#x434;&#x430;&#x447;&#x438;"
+        layerID="1" created="1385419620453" x="543.211" y="5024.9414"
+        width="130.40002" height="52.0" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dfa65b9b3</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="576" label="&#x41a;&#x414;" layerID="1"
+        created="1385419620453" x="401.92468" y="4978.825"
+        width="158.04788" height="55.601562" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d68d1e61d</URIString>
+        <point1 x="402.42465" y="4979.325"/>
+        <point2 x="559.47253" y="5033.927"/>
+        <ID1 xsi:type="node">569</ID1>
+        <ID2 xsi:type="node">575</ID2>
+    </child>
+    <child ID="577"
+        label="&#x41f;&#x440;&#x438;&#x434;&#x443;&#x43c;&#x430;&#x43d;&#x44b;=1"
+        layerID="1" created="1385419620453" x="273.8777" y="5116.941"
+        width="132.8" height="52.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d729c00cd</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="578" label="&#x421;&#x41e;" layerID="1"
+        created="1385419620453" x="330.92578" y="5078.663" width="22.0"
+        height="38.77832" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dbd7c91de</URIString>
+        <point1 x="342.6193" y="5079.163"/>
+        <point2 x="341.23227" y="5116.9414"/>
+        <ID1 xsi:type="node">570</ID1>
+        <ID2 xsi:type="node">577</ID2>
+    </child>
+    <child ID="579"
+        label="&#x422;&#x438;&#x43c;&#x43b;&#x438;&#x434;&#x435;&#x440;"
+        layerID="1" created="1385419669078" x="247.28323" y="5294.1064"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d0d80fcdb</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="580"
+        label="&#x41d;&#x430;&#x445;&#x43e;&#x434;&#x438;&#x442;"
+        layerID="1" created="1385419669078" x="253.28326" y="5375.073"
+        width="194.4" height="50.4" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d9571deb5</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="581" label="&#x417;&#x430;&#x434;&#x430;&#x447;&#x438;"
+        layerID="1" created="1385419669078" x="252.02216" y="5466.1064"
+        width="192.32777" height="52.416016" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dc312acda</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="582" label="&#x421;&#x414;" layerID="1"
+        created="1385419669078" x="340.48322" y="5332.6064" width="20.0"
+        height="42.966797" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d0d1c0a20</URIString>
+        <point1 x="350.48322" y="5333.1064"/>
+        <point2 x="350.48322" y="5375.073"/>
+        <ID1 xsi:type="node">579</ID1>
+        <ID2 xsi:type="node">580</ID2>
+    </child>
+    <child ID="583" label="&#x41e;&#x414;" layerID="1"
+        created="1385419669078" x="338.84705" y="5424.9717" width="21.0"
+        height="41.65332" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d18808c29</URIString>
+        <point1 x="349.85437" y="5425.4717"/>
+        <point2 x="348.8397" y="5466.125"/>
+        <ID1 xsi:type="node">580</ID1>
+        <ID2 xsi:type="node">581</ID2>
+    </child>
+    <child ID="588"
+        label="&#x41d;&#x430;&#x439;&#x434;&#x435;&#x43d;&#x44b;=1"
+        layerID="1" created="1385419669078" x="282.48325" y="5558.94"
+        width="132.8" height="52.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425ddd2b2ff9</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="589" label="&#x421;&#x41e;" layerID="1"
+        created="1385419669078" x="337.5354" y="5518.0156" width="22.0"
+        height="41.42578" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425df9246381</URIString>
+        <point1 x="348.38324" y="5518.5156"/>
+        <point2 x="348.68756" y="5558.9414"/>
+        <ID1 xsi:type="node">581</ID1>
+        <ID2 xsi:type="node">588</ID2>
+    </child>
+    <child ID="590"
+        label="&#x41d;&#x430;&#x439;&#x434;&#x435;&#x43d;&#x44b;=/1"
+        layerID="1" created="1385419692312" x="550.3499" y="5142.9863"
+        width="132.8" height="52.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425db59da473</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="591" label="&#x421;&#x41e;" layerID="1"
+        created="1385419692312" x="601.5779" y="5076.368" width="22.0"
+        height="67.118164" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dd80467bb</URIString>
+        <point1 x="610.24255" y="5076.868"/>
+        <point2 x="614.91327" y="5142.9863"/>
+        <ID1 xsi:type="node">575</ID1>
+        <ID2 xsi:type="node">590</ID2>
+    </child>
+    <child ID="592" label="&#x421;&#x41e;" layerID="1"
+        created="1385419774250" x="452.91956" y="5303.759"
+        width="76.364044" height="17.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d5e8c9886</URIString>
+        <point1 x="453.41953" y="5312.6196"/>
+        <point2 x="528.78357" y="5311.8975"/>
+        <ID1 xsi:type="node">579</ID1>
+        <ID2 xsi:type="node">593</ID2>
+    </child>
+    <child ID="593" label="&#x413;&#x43e;&#x442;&#x43e;&#x432; =/1"
+        layerID="1" created="1385419774250" x="528.78357" y="5293.3423"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d53934ca3</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="594"
+        label="&#x422;&#x438;&#x43c;&#x43b;&#x438;&#x434;&#x435;&#x440;"
+        layerID="1" created="1385419803625" x="234.25523" y="5743.8223"
+        width="206.4" height="39.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425db7b77b92</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="595"
+        label="&#x412;&#x441;&#x442;&#x440;&#x435;&#x447;&#x430;&#x435;&#x442;"
+        layerID="1" created="1385419803625" x="240.25528" y="5824.789"
+        width="194.4" height="50.4" strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425db7eb59fa</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="596"
+        label="&#x411;&#x435;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x43d;&#x44b;&#x439;"
+        layerID="1" created="1385419803625" x="238.99417" y="5915.8223"
+        width="192.32777" height="52.416016" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d7ff7392e</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="597" label="&#x421;&#x414;" layerID="1"
+        created="1385419803625" x="327.45523" y="5782.3223" width="20.0"
+        height="42.966797" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dfc2e6943</URIString>
+        <point1 x="337.45523" y="5782.8223"/>
+        <point2 x="337.45523" y="5824.789"/>
+        <ID1 xsi:type="node">594</ID1>
+        <ID2 xsi:type="node">595</ID2>
+    </child>
+    <child ID="598" label="&#x41e;&#x414;" layerID="1"
+        created="1385419803625" x="325.81897" y="5874.6895" width="21.0"
+        height="41.651367" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425dc1c7b3fb</URIString>
+        <point1 x="336.8263" y="5875.1895"/>
+        <point2 x="335.81168" y="5915.841"/>
+        <ID1 xsi:type="node">595</ID1>
+        <ID2 xsi:type="node">596</ID2>
+    </child>
+    <child ID="601" label="&#x421;&#x41e;" layerID="1"
+        created="1385419803625" x="439.8916" y="5753.4746"
+        width="76.36386" height="17.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425df31592c0</URIString>
+        <point1 x="440.39163" y="5762.3354"/>
+        <point2 x="515.7555" y="5761.6133"/>
+        <ID1 xsi:type="node">594</ID1>
+        <ID2 xsi:type="node">602</ID2>
+    </child>
+    <child ID="602" label="&#x413;&#x43e;&#x442;&#x43e;&#x432; =1"
+        layerID="1" created="1385419803625" x="515.7555" y="5743.058"
+        width="147.48901" height="35.696045" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d8fa8218f</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="603" label="&#x413;&#x43e;&#x442;&#x43e;&#x432;=0/1"
+        layerID="1" created="1385419879203" x="108.209274" y="4436.396"
+        width="207.33861" height="164.86914" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#EA2218</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d9621015f</URIString>
+        <point1 x="250.28937" y="4438.173"/>
+        <point2 x="315.04788" y="4600.765"/>
+        <ID1 xsi:type="node">555</ID1>
+        <ID2 xsi:type="node">557</ID2>
+        <ctrlPoint0 x="0.74991864" y="4421.857" xsi:type="point"/>
+    </child>
+    <child ID="604"
+        label="&#x41f;&#x440;&#x438;&#x434;&#x443;&#x43c;&#x430;&#x43d;&#x44b;=0/1"
+        layerID="1" created="1385419934187" x="142.14322" y="4882.0737"
+        width="158.97046" height="148.07861" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#EA2218</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d027b4743</URIString>
+        <point1 x="273.7927" y="4882.5737"/>
+        <point2 x="300.61368" y="5029.6523"/>
+        <ID1 xsi:type="node">568</ID1>
+        <ID2 xsi:type="node">570</ID2>
+        <ctrlPoint0 x="102.08325" y="4921.857" xsi:type="point"/>
+    </child>
+    <child ID="605"
+        label="&#x41d;&#x430;&#x439;&#x434;&#x435;&#x43d;&#x44b;=0/1"
+        layerID="1" created="1385419981187" x="153.8546" y="5330.2627"
+        width="149.04628" height="141.77246" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#EA2218</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d11c989e5</URIString>
+        <point1 x="302.40088" y="5330.7627"/>
+        <point2 x="290.18433" y="5471.535"/>
+        <ID1 xsi:type="node">579</ID1>
+        <ID2 xsi:type="node">581</ID2>
+        <ctrlPoint0 x="99.41659" y="5403.1904" xsi:type="point"/>
+    </child>
+    <child ID="606"
+        label="&#x412;&#x441;&#x442;&#x440;&#x435;&#x447;&#x435;&#x43d;=0/1"
+        layerID="1" created="1385420020578" x="82.1046" y="5776.4097"
+        width="192.30003" height="146.07227" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#EA2218</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d23b7a5ed</URIString>
+        <point1 x="263.6029" y="5776.9097"/>
+        <point2 x="273.90463" y="5921.982"/>
+        <ID1 xsi:type="node">594</ID1>
+        <ID2 xsi:type="node">596</ID2>
+        <ctrlPoint0 x="-13.544567" y="5827.899" xsi:type="point"/>
+    </child>
+    <child ID="607" label="19." layerID="1" created="1385420043000"
+        x="-124.58341" y="4488.524" width="56.0" height="56.0"
+        strokeWidth="0.0" autoSized="false" xsi:type="text">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d7e6ea7bc</URIString>
+        <richText>&lt;html&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
+    &lt;style type="text/css"&gt;
+      &lt;!--
+        body { font-family: Arial; margin-bottom: 0px; font-size: 16; margin-left: 0px; margin-top: 0px; color: #000000; margin-right: 0px }
+        ol { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; margin-left: 0; margin-top: 0; color: #000000; margin-right: 0 }
+        ul { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+      --&gt;
+    &lt;/style&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
+      &lt;font style="font-size:24;"&gt;19.&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richText>
+        <label>19.</label>
+    </child>
+    <child ID="608" label="20." layerID="1" created="1385420053187"
+        x="10.083254" y="4904.5234" width="56.0" height="56.0"
+        strokeWidth="0.0" autoSized="false" xsi:type="text">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d5aed06aa</URIString>
+        <richText>&lt;html&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
+    &lt;style type="text/css"&gt;
+      &lt;!--
+        body { font-family: Arial; margin-bottom: 0px; font-size: 16; margin-left: 0px; margin-top: 0px; color: #000000; margin-right: 0px }
+        ol { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; margin-left: 0; margin-top: 0; color: #000000; margin-right: 0 }
+        ul { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+      --&gt;
+    &lt;/style&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
+      &lt;font style="font-size:24;"&gt;20.&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richText>
+        <label>20.</label>
+    </child>
+    <child ID="609" label="21." layerID="1" created="1385420061687"
+        x="-25.916748" y="5312.524" width="56.0" height="56.0"
+        strokeWidth="0.0" autoSized="false" xsi:type="text">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d227a15b5</URIString>
+        <richText>&lt;html&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
+    &lt;style type="text/css"&gt;
+      &lt;!--
+        body { font-family: Arial; margin-bottom: 0px; font-size: 16; margin-left: 0px; margin-top: 0px; color: #000000; margin-right: 0px }
+        ol { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; margin-left: 0; margin-top: 0; color: #000000; margin-right: 0 }
+        ul { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+      --&gt;
+    &lt;/style&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
+      &lt;font style="font-size:24;"&gt;21.&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richText>
+        <label>21.</label>
+    </child>
+    <child ID="610" label="22." layerID="1" created="1385420066843"
+        x="20.749924" y="5732.5244" width="56.0" height="56.0"
+        strokeWidth="0.0" autoSized="false" xsi:type="text">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#000000</textColor>
+        <font>-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/917962bdc0a801210105425d483f4cf2</URIString>
+        <richText>&lt;html&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
+    &lt;style type="text/css"&gt;
+      &lt;!--
+        body { font-family: Arial; margin-bottom: 0px; font-size: 16; margin-left: 0px; margin-top: 0px; color: #000000; margin-right: 0px }
+        ol { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; margin-left: 0; margin-top: 0; color: #000000; margin-right: 0 }
+        ul { font-family: Arial; margin-left: 30; font-size: 16; vertical-align: middle; margin-top: 6; list-style-position: outside }
+      --&gt;
+    &lt;/style&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
+      &lt;font style="font-size:24;"&gt;22.&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</richText>
+        <label>22.</label>
+    </child>
     <layer ID="1" label="Layer 1" created="1382006616819" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/c63a8f587f000001009cc168321e8710</URIString>
     </layer>
     <userZoom>0.75</userZoom>
-    <userOrigin x="-250.43756" y="-85.60707"/>
+    <userOrigin x="-442.43756" y="-85.60707"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0"
